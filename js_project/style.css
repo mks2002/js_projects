@@ -1,0 +1,14 @@
+.my-container {
+   width: 80vw;
+   height: 80vh;
+   border: 2px solid black;
+   border-radius: 10px;
+}
+
+.mydiv {
+   width: 90%;
+   margin: auto;
+   display: flex;
+   justify-content: space-between;
+
+}
